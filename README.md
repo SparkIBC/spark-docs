@@ -3,7 +3,7 @@
 # Welcome to the Spark Docs!
 
 - **[Smart Contracts](https://github.com/SparkIBC/spark-docs/tree/main/spark-contracts)**
-- **[Frontend/UI](https://github.com/SparkIBC/spark-docs/tree/main/UI)**
+- **[Frontend/UI](https://github.com/SparkIBC/spark-docs/tree/main/ui)**
 - **[Infrastructure & Hosting](https://github.com/SparkIBC/spark-docs/tree/main/infrastructure)**
 
 **The docs are split up into the sections above.**
