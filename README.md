@@ -2,10 +2,10 @@
 
 # Welcome to the Spark Docs!
 
-- **[Smart Contracts](https://github.com/SparkIBC/spark-docs/tree/main/spark-contracts)**
-- **[Frontend/UI](https://github.com/SparkIBC/spark-docs/tree/main/ui)**
-- **[Infrastructure & Hosting](https://github.com/SparkIBC/spark-docs/tree/main/infrastructure)**
-- **[Guides](https://github.com/SparkIBC/spark-docs/tree/main/guides)**
+- **[Guides & Resources](./guides-resources/README.md)**
+- **[Smart Contracts](./spark-contracts/README.md)**
+- **[Frontend/UI](./ui/README.md)**
+- **[Infrastructure & Hosting](./infrastructure-hosting/README.md)**
 
 **The docs are split up into the sections above.**
 
