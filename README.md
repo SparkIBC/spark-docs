@@ -2,8 +2,15 @@
 
 # Welcome to the Spark Docs!
 
-- **[Smart Contracts](https://github.com/SparkIBC/spark-docs/spark-contracts)**
-- **[Frontend/UI](https://github.com/SparkIBC/spark-docs/UI)**
-- **[Infrastructure & Hosting](https://github.com/SparkIBC/spark-docs/infrastructure)**
+- **[Smart Contracts](https://github.com/SparkIBC/spark-docs/tree/main/spark-contracts)**
+- **[Frontend/UI](https://github.com/SparkIBC/spark-docs/tree/main/UI)**
+- **[Infrastructure & Hosting](https://github.com/SparkIBC/spark-docs/tree/main/infrastructure)**
 
 **The docs are split up into the sections above.**
+
+## Socials
+**Twitter** - https://twitter.com/SparkIBC <br>
+**Discord** - https://discord.gg/RkxcNDtvkJ <br>
+**Telegram** - https://t.me/+OQy0jks3Dhs0NDBh <br>
+**Jackal DAO (sparkibc.rns)** - https://rns.jackaldao.com/resolve/ <br>
+**(de)NS** - https://dens.sh/dens::sparkibc <br>
